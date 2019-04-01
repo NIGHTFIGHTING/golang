@@ -73,5 +73,5 @@ Go抽奖系统
 	thrift -out .. --gen go lucky.thrift
 	thrift -out .. --gen php lucky.thrift
 
-#下载thrift源码，包括各个语言的类库
+#下载thrift源码，包括各个语言的类库 修改
 	http://www.apache.org/dyn/closer.cgi?path=/thrift/0.11.0/thrift-0.11.0.tar.gz
